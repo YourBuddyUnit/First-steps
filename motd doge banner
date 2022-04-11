@@ -1,0 +1,10 @@
+enable
+configure terminal
+banner motd "
+
+===============================
+|     We're sorry for the     |
+|        inconvenience        |
+| but right now we are out of |
+|           dogecoin          |
+=============================== "
