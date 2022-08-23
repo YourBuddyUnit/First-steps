@@ -1,3 +1,14 @@
-input if{ "Well I suppose I should learn how to code something?"
-}
-print "Or maybe not."
+answer = input(
+"I guess I should learn to code? y/n"
+)
+if answer == 'y':
+  print("Sweet!")
+//For the Emperor!//
+if answer == 'n':
+  print("Well, go martyr yourself for the Emperor then!")
+//Repent to the Emperor!//
+else:
+  print(
+"Looks like you forgot how to type, try again FNG.")
+)
+//He is displeased//
