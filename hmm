@@ -1,11 +1,11 @@
 answer = input(
-'I guess I should learn to code? Type y to agree'
+'I guess I should learn to code? \r Type y to agree'
 )
 if answer == 'y':
-  print('Sweet!')
+  print('Sweet!\r---Time\r----to\r-----get\r------to\r-------work!\nLet\'s get started!')
 #For the Emperor!
 else:
   print(
-'Well, go martyr yourself for the Emperor then!'
+'Well, then you should probably... \r -------------------------------- \r Go martyr yourself for the Emperor!'
 )
 #Repent, for He is displeased!
