@@ -9,6 +9,6 @@ if answer == 'n':
 #Repent to the Emperor!
 else:
   print(
-"Looks like you forgot how to type, try again FNG.")
+"Looks like you forgot how to type, try again FNG."
 )
 #He is displeased
