@@ -1,5 +1,6 @@
 answer = input(
-"I guess I should learn to code? y/n"
+"I guess I should learn to code? 
+Type y to agree"
 )
 if answer == 'y':
   print("Sweet!")
