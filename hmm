@@ -1,11 +1,11 @@
 answer = input(
-"I guess I should learn to code? Type y to agree"
+'I guess I should learn to code? Type y to agree'
 )
 if answer == 'y':
-  print("Sweet!")
+  print('Sweet!')
 #For the Emperor!
 else:
   print(
-"Well, go martyr yourself for the Emperor then!"
+'Well, go martyr yourself for the Emperor then!'
 )
 #Repent, for He is displeased!
